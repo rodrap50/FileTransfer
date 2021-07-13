@@ -1,0 +1,7 @@
+C:\Users\u09033\source\repos\FolderMigration\FolderMigration\bin\Release\FolderMigration.exe.config
+C:\Users\u09033\source\repos\FolderMigration\FolderMigration\bin\Release\FolderMigration.exe
+C:\Users\u09033\source\repos\FolderMigration\FolderMigration\bin\Release\FolderMigration.pdb
+C:\Users\u09033\source\repos\FolderMigration\FolderMigration\obj\Release\FolderMigration.csprojAssemblyReference.cache
+C:\Users\u09033\source\repos\FolderMigration\FolderMigration\obj\Release\FolderMigration.csproj.CoreCompileInputs.cache
+C:\Users\u09033\source\repos\FolderMigration\FolderMigration\obj\Release\FolderMigration.exe
+C:\Users\u09033\source\repos\FolderMigration\FolderMigration\obj\Release\FolderMigration.pdb
